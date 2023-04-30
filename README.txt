@@ -21,3 +21,6 @@ datetime
 (2) Open Command Prompt and type 'python server.py' in the terminal. Access to root page by pressing Ctrl+click the link or copy the link in the web browser.
 
 (3) Disconnect server by closing the Command Prompt.
+
+
+Note: Unzip the htdocs.zip before running the files. 
